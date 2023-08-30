@@ -1,0 +1,25 @@
+#name {
+    text-align: center;
+    color: rgb(70, 55, 3);
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+}
+
+img {
+    border: 4px solid black;
+}
+#photoedit {
+    text-align: center;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+li {
+    font-family: 'Playfair Display', serif;
+}
+
+html {
+    background-color: antiquewhite;
+}
